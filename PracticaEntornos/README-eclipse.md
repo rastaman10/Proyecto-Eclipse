@@ -1,7 +1,7 @@
 
 Primera version
 
-he clonado el repositio
+he clonado el repositorio
 
 estoy editando el repositorio de abraham
 
